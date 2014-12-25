@@ -1,0 +1,9 @@
+F:\Lab Test-17-12-14\EmployeeInfo_App\EmployeeInfo_App\bin\Debug\EmployeeInfo_App.exe.config
+F:\Lab Test-17-12-14\EmployeeInfo_App\EmployeeInfo_App\bin\Debug\EmployeeInfo_App.exe
+F:\Lab Test-17-12-14\EmployeeInfo_App\EmployeeInfo_App\bin\Debug\EmployeeInfo_App.pdb
+F:\Lab Test-17-12-14\EmployeeInfo_App\EmployeeInfo_App\obj\Debug\EmployeeInfo_App.csprojResolveAssemblyReference.cache
+F:\Lab Test-17-12-14\EmployeeInfo_App\EmployeeInfo_App\obj\Debug\EmployeeInfo_App.Form1.resources
+F:\Lab Test-17-12-14\EmployeeInfo_App\EmployeeInfo_App\obj\Debug\EmployeeInfo_App.Properties.Resources.resources
+F:\Lab Test-17-12-14\EmployeeInfo_App\EmployeeInfo_App\obj\Debug\EmployeeInfo_App.csproj.GenerateResource.Cache
+F:\Lab Test-17-12-14\EmployeeInfo_App\EmployeeInfo_App\obj\Debug\EmployeeInfo_App.exe
+F:\Lab Test-17-12-14\EmployeeInfo_App\EmployeeInfo_App\obj\Debug\EmployeeInfo_App.pdb

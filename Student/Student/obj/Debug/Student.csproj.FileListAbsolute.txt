@@ -1,0 +1,9 @@
+F:\Lab Test-17-12-14\Student\Student\bin\Debug\Student.exe.config
+F:\Lab Test-17-12-14\Student\Student\bin\Debug\Student.exe
+F:\Lab Test-17-12-14\Student\Student\bin\Debug\Student.pdb
+F:\Lab Test-17-12-14\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+F:\Lab Test-17-12-14\Student\Student\obj\Debug\Student.Form1.resources
+F:\Lab Test-17-12-14\Student\Student\obj\Debug\Student.Properties.Resources.resources
+F:\Lab Test-17-12-14\Student\Student\obj\Debug\Student.csproj.GenerateResource.Cache
+F:\Lab Test-17-12-14\Student\Student\obj\Debug\Student.exe
+F:\Lab Test-17-12-14\Student\Student\obj\Debug\Student.pdb
